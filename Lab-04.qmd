@@ -1,0 +1,58 @@
+---
+title: "Lab-04"
+author: "Gowri"
+format: 
+  html:
+    embed-resources: true
+fig-height: 10
+fig-width: 10
+editor: visual
+---
+
+### **1. Read in the data**
+
+```{r}
+
+```
+
+### **2. Prepare the data**
+
+```{r}
+
+```
+
+### **3. Use `geom_violin` to examine the wind speed and dew point by region**
+
+```{r}
+
+```
+
+### **4. Use `geom_jitter` with `stat_smooth` to examine the association between dew point and wind speed by region**
+
+```{r}
+
+```
+
+### **5. Use `geom_bar` to create barplots of the weather stations by elevation category colored by region**
+
+```{r}
+
+```
+
+### **6. Use `stat_summary` to examine mean dew point and wind speed by region with standard deviation error bars**
+
+```{r}
+
+```
+
+### **7. Make a map showing the spatial trend in relative humidity in the US**
+
+```{r}
+
+```
+
+### **8. Use a ggplot extension**
+
+```{r}
+
+```
